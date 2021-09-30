@@ -1,4 +1,4 @@
-# githubChatworkWebhook
+# github-chatwork-webhook
 
 githubとchatworkの連携記事が思ったより少なかったので特に必要そうなものだけをまとめたもの  
 github設定はGooleAppsScriptの設定が終わらないと完了出来ないため一番最後になります  
